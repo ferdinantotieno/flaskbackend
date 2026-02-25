@@ -161,7 +161,7 @@ def mpesa_payment():
         "PartyB": "174379",
         "PhoneNumber": phone,
         "CallBackURL": "https://coding.co.ke/api/confirm.php",
-        "AccountReference": " chui SokoGarden Online",
+        "AccountReference": "  ferdinant watch products Online",
         "TransactionDesc": "Payments for Products"
         }
 
